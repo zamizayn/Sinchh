@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335943778523",
+    "firebase_url": "https://sinch-video-call-4c426.firebaseio.com",
+    "project_id": "sinch-video-call-4c426",
+    "storage_bucket": "sinch-video-call-4c426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335943778523:android:7fbef78a2ee5ea59020cfe",
+        "android_client_info": {
+          "package_name": "com.example.sinchh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335943778523-v02ls3uvi5tv4c2355l44o15d1j8pk1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinchh",
+            "certificate_hash": "38da624509eba1019e6c76a154a4e44b6b6a3ba0"
+          }
+        },
+        {
+          "client_id": "335943778523-kb36e5o1405oc0mtu1f1d70d4dt275mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2-rxV52kSaX8KkURGENGQ-bm4HKNFhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335943778523-kb36e5o1405oc0mtu1f1d70d4dt275mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
